@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhakta Bhusan Das!
 
-🚀 **DevOps Engineer** | 🛠️ Cloud & Automation Enthusiast | ☁️ HashiCorp Certified: Terraform Associate (003)
+♾️ **DevOps Engineer** | 🛠️ Cloud & Automation Enthusiast | ☁️ HashiCorp Certified: Terraform Associate (003)
 
 ---
 
