@@ -13,6 +13,8 @@ Results-driven Site Reliability Engineer with 2.11+ years of hands-on experience
 ## 🏆 Certifications
 
 - **HashiCorp Certified: Terraform Associate (003)**
+- **AWS Certified Solutions Architect Associate (In Progress - Target completion
+11/25/2025)**
 
 ---
 
