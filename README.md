@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Bhakta Bhusan Das!
 
-♾️ **DevOps Engineer** | 🛠️ Cloud & Automation Enthusiast | ☁️ HashiCorp Certified: Terraform Associate (003)
+📊 **Site Reliability Engineer** | 🛠️ Cloud & Automation Enthusiast | ☁️ HashiCorp Certified: Terraform Associate (003)
 
 ---
 
 ## 👨‍💻 About Me
 
-Results-driven DevOps Engineer with **2.7+ years** of experience in CI/CD implementation, infrastructure automation, and cloud services. I specialize in optimizing deployment pipelines, building resilient infrastructures, and enabling rapid, reliable software delivery. My passion lies in driving continuous improvement and empowering teams to achieve high application uptime and self-healing systems.
+Results-driven Site Reliability Engineer with 2.11+ years of hands-on experience designing, maintaining, and scaling robust infrastructure in cloud-native environments. Proven expertise in Kubernetes orchestration across multiple platforms (EKS, AKS, OpenShift), CI/CD pipeline implementation, and observability solutions. Skilled in automating infrastructure and operational tasks using Python and Terraform to implement SRE best practices including SLIs, SLOs, and reliability optimization. 
 
 ---
 
