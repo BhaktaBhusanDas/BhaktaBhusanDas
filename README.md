@@ -1,20 +1,19 @@
 # 👋 Hi, I'm Bhakta Bhusan Das!
 
-📊 **Site Reliability Engineer** | 🛠️ Cloud & Automation Enthusiast | ☁️ HashiCorp Certified: Terraform Associate (003)
+📊 **DevOps Engineer** | 🛠️ Cloud & Automation Enthusiast | ☁️ HashiCorp Certified: Terraform Associate (003)
 
 ---
 
 ## 👨‍💻 About Me
 
-Results-driven Site Reliability Engineer with 2.11+ years of hands-on experience designing, maintaining, and scaling robust infrastructure in cloud-native environments. Proven expertise in Kubernetes orchestration across multiple platforms (EKS, AKS, OpenShift), CI/CD pipeline implementation, and observability solutions. Skilled in automating infrastructure and operational tasks using Python and Terraform to implement SRE best practices including SLIs, SLOs, and reliability optimization. 
+As a DevOps Engineer at Wipro, I design and maintain efficient CI/CD pipelines using Jenkins and GitHub Actions, enabling seamless automated deployments across multiple environments. By implementing Infrastructure as Code with Terraform on AWS, I have reduced manual resource provisioning by 80%, improving speed, consistency, and operational excellence. I bring advanced expertise in Terraform and Jenkins (JCasC), along with strong skills in Datadog monitoring that optimize trace correlation and have cut issue resolution time by 30%. I am now AWS Certified Solutions Architect – Associate (SAA-C03) and also HashiCorp Certified: Terraform Associate (003), strengthening my ability to design, automate, and operate reliable cloud-native platforms. 
 
 ---
 
 ## 🏆 Certifications
 
+- **AWS Certified Solutions Architect Associate**
 - **HashiCorp Certified: Terraform Associate (003)**
-- **AWS Certified Solutions Architect Associate (In Progress - Target completion
-11/25/2025)**
 
 ---
 
