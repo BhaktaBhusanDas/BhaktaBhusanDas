@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhakta Bhusan Das!
 
-♾ **Site Reliability Engineer @ Wipro** | ☁️ AWS Solutions Architect (SAA-C03) & 🧱 Terraform Associate | 🔄 CI/CD - IaC - ☸️ Kubernetes
+🛰️ **Site Reliability Engineer @ Wipro** | ☁️ AWS Solutions Architect (SAA-C03) & 🧱 Terraform Associate | 🔄 CI/CD - IaC - ☸️ Kubernetes
 
 ---
 
