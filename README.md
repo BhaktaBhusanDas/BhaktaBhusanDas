@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Bhakta Bhusan Das!
 
-🛰️ **Site Reliability Engineer @ Wipro** | ☁️ AWS Solutions Architect (SAA-C03) & 🧱 Terraform Associate | 🔄 CI/CD - IaC - ☸️ Kubernetes
+☁ **Cloud Engineer @ Wipro** | ☁️ AWS Solutions Architect (SAA-C03) & 🧱 Terraform Associate | 🔄 CI/CD - IaC - ☸️ Kubernetes
 
 ---
 
 ## 👨‍💻 About Me
 
-Site Reliability engineer with 3.2+ years of building and operating fault-tolerant, highly available systems in AWS. Experienced in DevOps practices, infrastructure-as-code (Terraform), automation (Ansible), container orchestration (Kubernetes/EKS), and observability (Datadog, Prometheus, Grafana). Delivered automated remediation, improved system reliability, and reduced deployment/provisioning time through CI/CD pipelines and self-healing runbooks. AWS Certified Solutions Architect - Associate; Terraform Certified.
+Cloud Engineer with 3.2+ years’ experience designing, deploying, and maintaining modular cloud-based systems on AWS and Azure. Skilled in implementing Infrastructure as Code (Terraform), CI/CD pipelines (Jenkins), container orchestration (Kubernetes/EKS), and observability solutions to ensure high availability and fast recovery. Proven at troubleshooting deployments, identifying infrastructure vulnerabilities, enforcing cloud security best practices, and providing client-facing support and recommendations for
+cloud initiatives.
 
 ---
 
