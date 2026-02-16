@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Bhakta Bhusan Das!
 
-☁ **Cloud Engineer @ Wipro** | ☁️ AWS Solutions Architect (SAA-C03) & 🧱 Terraform Associate | 🔄 CI/CD - IaC - ☸️ Kubernetes
+♾ **DevOps Engineer @ Wipro** | ☁️ AWS Solutions Architect (SAA-C03) & 🧱 Terraform Associate | 🔄 CI/CD - IaC - ☸️ Kubernetes
 
 ---
 
 ## 👨‍💻 About Me
 
-Cloud Engineer with 3.2+ years’ experience designing, deploying, and maintaining modular cloud-based systems on AWS and Azure. Skilled in implementing Infrastructure as Code (Terraform), CI/CD pipelines (Jenkins), container orchestration (Kubernetes/EKS), and observability solutions to ensure high availability and fast recovery. Proven at troubleshooting deployments, identifying infrastructure vulnerabilities, enforcing cloud security best practices, and providing client-facing support and recommendations for
-cloud initiatives.
+DevOps Engineer with 3.2+ years’ experience designing and operating scalable, secure cloud infrastructure and CI/CD pipelines. Hands-on with AWS and infrastructure-as-code (Terraform) to build automated, resilient environments. Strong experience with containerization and orchestration (Docker, Kubernetes/EKS), CI/CD automation (Jenkins), scripting (Python, Bash), and monitoring/observability (Prometheus, Grafana, Datadog). Proven track record of implementing best practices, automating repetitive tasks, troubleshooting production issues, and providing support to ensure reliable, fast delivery.
 
 ---
 
